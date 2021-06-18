@@ -35,10 +35,10 @@ Feb 2021 – Mar 2021
 
 Extraction of financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and web scraping on popular stocks. After collecting this data, I visualized it to identify patterns or trends. The stocks I worked with were:
 
-• Tesla
-• Amazon
-• AMD
-• GameStop
+<li>Tesla</li>
+<li>Amazon</li>
+<li>AMD</li>
+<li>GameStop</li>
 
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/Jupyter-Notebooks/blob/main/Final%20Project%20-%20Python%20Basics%20for%20Data%20Science.ipynb">View Project</a>
 
@@ -48,9 +48,9 @@ Mar 2021
 Tasked with determining the market price of a house given a set of features.
 Analysis and prediction of housing prices using attributes or features such as:
 
-• Square Footage
-• Number of bedrooms
-• Number of floors
+<li>Square Footage</li>
+<li>Number of bedrooms</li>
+<li>Number of floors</li>
 
 and so on
 
@@ -61,16 +61,16 @@ May 2021
 
 Loaded a historical dataset from previous loan applications, cleaned the data, and applied different classification algorithms on the data. Used the following models to decide the best among them for this scenario:
 
-• k-Nearest Neighbour
-• Decision Tree
-• Support Vector Machine
-• Logistic Regression
+<li>k-Nearest Neighbour</li>
+<li>Decision Tree</li>
+<li>Support Vector Machine</li>
+<li>Logistic Regression</li>
 
 The results are reported as the accuracy of each classifier, using the following metrics when these are applicable:
 
-• Jaccard index
-• F1-score
-• Log Loss
+<li>accard index</li>
+<li>F1-score</li>
+<li>Log Loss</li>
 
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/Jupyter-Notebooks/blob/7be516b6c1a909e0c269a389d940763c5c6c4246/Project-Loan-Payment-Prediction-Model.ipynb">View Project</a>
 
