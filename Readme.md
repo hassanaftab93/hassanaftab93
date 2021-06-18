@@ -53,7 +53,7 @@ Analysis and prediction of housing prices using attributes or features such as:
 <li>Number of floors</li>
 
 and so on
-<br>
+
 <a href="https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/3704503e-7045-4487-93dd-4175bce61d1a/view?access_token=3aa1c9204c53a5af7408477da41a37fb04190fb891e06c67467653fc0b59a765">View Project</a>
 
 ### Loan Payment Prediction Model
@@ -66,12 +66,14 @@ Loaded a historical dataset from previous loan applications, cleaned the data, a
 <li>Support Vector Machine</li>
 <li>Logistic Regression</li>
 
+<br>
 The results are reported as the accuracy of each classifier, using the following metrics when these are applicable:
 
 <li>accard index</li>
 <li>F1-score</li>
 <li>Log Loss</li>
 <br>
+
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/Jupyter-Notebooks/blob/7be516b6c1a909e0c269a389d940763c5c6c4246/Project-Loan-Payment-Prediction-Model.ipynb">View Project</a>
 
 ### Segmenting and Clustering Neighborhoods in Toronto
