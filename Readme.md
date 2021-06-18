@@ -68,8 +68,9 @@ Loaded a historical dataset from previous loan applications, cleaned the data, a
 
 <br>
 The results are reported as the accuracy of each classifier, using the following metrics when these are applicable:
+<br>
 
-<li>accard index</li>
+<li>Jaccard index</li>
 <li>F1-score</li>
 <li>Log Loss</li>
 <br>
