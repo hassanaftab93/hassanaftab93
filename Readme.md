@@ -53,7 +53,6 @@ Analysis and prediction of housing prices using attributes or features such as:
 <li>Number of floors</li>
 
 and so on
-
 <br>
 <a href="https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/3704503e-7045-4487-93dd-4175bce61d1a/view?access_token=3aa1c9204c53a5af7408477da41a37fb04190fb891e06c67467653fc0b59a765">View Project</a>
 
