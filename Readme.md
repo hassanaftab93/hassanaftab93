@@ -84,3 +84,10 @@ For the Toronto neighborhood data, a Wikipedia page exists that has all the info
 Once the data was in a structured format, I used the dataset to explore and cluster the neighborhoods in the city of Toronto, with the help of Foursquare API and K-means Clustering Algorithm for Unsupervised Machine Learning.
 
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Capstone-Project-Segmenting-Clustering-Neighborhoods-Toronto.ipynb#Segmenting-and-Clustering-Neighborhoods-in-Toronto">View Project</a>
+
+Reach me @: <a href="mailto:hassanaftab.pk@gmail.com">hassanaftab.pk@gmail.com</a>
+
+### Social Media Links:
+
+<li>Linkedin:   <a href="https://www.linkedin.com/in/hassanaftab93/">hassanaftab93</a></li>
+<li>Facebook:   <a href="https://www.facebook.com/hassan.aftab93">Hassan Aftab</a></li>
