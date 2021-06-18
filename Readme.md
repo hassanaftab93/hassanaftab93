@@ -86,7 +86,7 @@ Once the data was in a structured format, I used the dataset to explore and clus
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Capstone-Project-Segmenting-Clustering-Neighborhoods-Toronto.ipynb#Segmenting-and-Clustering-Neighborhoods-in-Toronto">View Project</a>
 
 
-### <center> -------------- </center>
+### <center> ----------------------
 
 Reach me @: <a href="mailto:hassanaftab.pk@gmail.com">hassanaftab.pk@gmail.com</a>
 
