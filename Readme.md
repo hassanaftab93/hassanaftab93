@@ -22,11 +22,11 @@ The module is capable of sending an SMS message to the family member periodicall
 
 ## IBM Certifications
 
-<li> SQL and Databases for Data Science: <a href="https://www.coursera.org/account/accomplishments/certificate/U6XDTP6BMLVR">See Credential</a></li>
-<li> Data Analysis with Python: <a href="https://www.youracclaim.com/badges/94a0cf66-9174-456a-a77c-6ee328d6e6a3?source=linked_in_profile">See Credential</a></li>
-<li> Data Visualization with Python: <a href="https://www.credly.com/badges/17673eea-6413-4691-885e-7064424783dd?source=linked_in_profile">See Credential</a></li>
-<li> Machine Learning with Python: <a href="https://www.coursera.org/account/accomplishments/certificate/9GRKJMK7SSPZ">See Credential</a></li>
-<li> IBM Data Science Professional Certification: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BEXSZHNPKL28">See Credential</a></li>
+<li> SQL and Databases for Data Science: <a href="https://www.coursera.org/account/accomplishments/certificate/U6XDTP6BMLVR">   See Credential</a></li>
+<li> Data Analysis with Python: <a href="https://www.youracclaim.com/badges/94a0cf66-9174-456a-a77c-6ee328d6e6a3?source=linked_in_profile"> See Credential</a></li>
+<li> Data Visualization with Python: <a href="https://www.credly.com/badges/17673eea-6413-4691-885e-7064424783dd?source=linked_in_profile"> See Credential</a></li>
+<li> Machine Learning with Python: <a href="https://www.coursera.org/account/accomplishments/certificate/9GRKJMK7SSPZ"> See Credential</a></li>
+<li> IBM Data Science Professional Certification: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BEXSZHNPKL28">   See Credential</a></li>
 
 ## Data Science Projects
 
@@ -39,7 +39,7 @@ Extraction of financial data like historical share price and quarterly revenue r
 <li>Amazon</li>
 <li>AMD</li>
 <li>GameStop</li>
-
+<br>
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/Jupyter-Notebooks/blob/main/Final%20Project%20-%20Python%20Basics%20for%20Data%20Science.ipynb">View Project</a>
 
 ### Data Analysis of House Sales in Kings County, USA
@@ -53,7 +53,7 @@ Analysis and prediction of housing prices using attributes or features such as:
 <li>Number of floors</li>
 
 and so on
-
+<br>
 <a href="https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/3704503e-7045-4487-93dd-4175bce61d1a/view?access_token=3aa1c9204c53a5af7408477da41a37fb04190fb891e06c67467653fc0b59a765">View Project</a>
 
 ### Loan Payment Prediction Model
@@ -71,7 +71,7 @@ The results are reported as the accuracy of each classifier, using the following
 <li>accard index</li>
 <li>F1-score</li>
 <li>Log Loss</li>
-
+<br>
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/Jupyter-Notebooks/blob/7be516b6c1a909e0c269a389d940763c5c6c4246/Project-Loan-Payment-Prediction-Model.ipynb">View Project</a>
 
 ### Segmenting and Clustering Neighborhoods in Toronto
@@ -82,11 +82,11 @@ I was required to explore, segment, and cluster the neighborhoods in the city of
 For the Toronto neighborhood data, a Wikipedia page exists that has all the information needed to explore and cluster the neighborhoods in Toronto. I was required to scrape the Wikipedia page and wrangle the data, clean it, and then read it into a pandas data frame so that it was in a structured format.
 
 Once the data was in a structured format, I used the dataset to explore and cluster the neighborhoods in the city of Toronto, with the help of Foursquare API and K-means Clustering Algorithm for Unsupervised Machine Learning.
-
+<br>
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Capstone-Project-Segmenting-Clustering-Neighborhoods-Toronto.ipynb#Segmenting-and-Clustering-Neighborhoods-in-Toronto">View Project</a>
 
 
-### <center> ---------------------- </center>
+### ----------------------
 
 Reach me @: <a href="mailto:hassanaftab.pk@gmail.com">hassanaftab.pk@gmail.com</a>
 
