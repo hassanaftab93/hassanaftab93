@@ -19,6 +19,7 @@ Apart from an Ultrasonic sensor for obstacle detection, the system also has a GP
 The module is capable of sending an SMS message to the family member periodically / on button press, that contains the google maps location of the device (and the person using it).
 
 <a href="https://github.com/hassanaftab93/Obstacle-Detection-for-the-blind">**Repository**</a>
+<br>
 <a href="https://prezi.com/view/Oocoz26Y9AmBxbxiROWZ/">**Presentation**</a>
 
 ## IBM Certifications
@@ -69,8 +70,8 @@ Loaded a historical dataset from previous loan applications, cleaned the data, a
 
 <br>
 The results are reported as the accuracy of each classifier, using the following metrics when these are applicable:
+
 <br>
- 
 <li>Jaccard index</li>
 <li>F1-score</li>
 <li>Log Loss</li>
