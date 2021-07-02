@@ -24,7 +24,11 @@ The module is capable of sending an SMS message to the family member periodicall
 
 ## Badges
 
-[![IBM Certified Data Analyst](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/352f63db-bb8b-4eb6-8f83-c370f5f4e836)
+|  |  |  |  |
+|--|--|--|--|
+| [![Tools for Data Science](https://images.credly.com/size/110x110/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png)](https://www.credly.com/earner/earned/badge/3dd3f4b9-9680-4aeb-9c77-ecc7b0931f44) | [![Data Science Methodology](https://images.credly.com/size/110x110/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)](https://www.credly.com/earner/earned/badge/3a65a159-3802-4b40-be0e-f680e95049ff) | [![Python for Data Science & AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](https://www.credly.com/earner/earned/badge/ac75ca86-12b0-4122-9a58-cb14e7d1a1c4) | [![Databases for SQL & Data Science](https://images.credly.com/size/110x110/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png)](https://www.credly.com/earner/earned/badge/af366b83-1cb2-4232-8f29-b3b6e81bb66c) |
+| [![Data Analysis with Python](https://images.credly.com/size/110x110/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png)](https://www.credly.com/earner/earned/badge/94a0cf66-9174-456a-a77c-6ee328d6e6a3) | [![Data Visualization with Python](https://images.credly.com/size/110x110/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png)](https://www.credly.com/earner/earned/badge/17673eea-6413-4691-885e-7064424783dd) | [![Machine Learning with python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](https://www.credly.com/earner/earned/badge/928b3b1b-a40f-4e67-a3f4-fd0b3d2f03d0) | [![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/earner/earned/badge/352f63db-bb8b-4eb6-8f83-c370f5f4e836) |
+|  |  |  |  |
 
 ## Data Science Projects
 
