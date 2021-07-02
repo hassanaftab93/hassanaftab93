@@ -92,6 +92,14 @@ Once the data was in a structured format, I used the dataset to explore and clus
 
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/Coursera_Capstone/blob/main/Capstone-Project-Segmenting-Clustering-Neighborhoods-Toronto.ipynb#Segmenting-and-Clustering-Neighborhoods-in-Toronto">View Project</a>
 
+### COVID-19 Analysis - Pakistan 2020
+July 2021
+
+The 2019–20 coronavirus pandemic was confirmed to have reached Pakistan on 26 February 2020, when a student in Karachi tested positive upon returning from Iran. By 18 March, cases had been registered in all four provinces, the two autonomous territories, and the federal territory of Islamabad. The dataset is completely acquired from NIH Publications, Governmental resources and extra mile contacts.
+
+The dataset reflects at provincial level and details from all the aspects.
+
+<a href="https://github.com/hassanaftab93/Covid-19-Analysis-Pakistan/blob/main/Covid19-Analysis-Pakistan-2020.ipynb">View Project</a>
 
 ### ----------------------
 
