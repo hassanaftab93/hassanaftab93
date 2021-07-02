@@ -22,13 +22,9 @@ The module is capable of sending an SMS message to the family member periodicall
 <br/><br/>
 <a href="https://prezi.com/view/Oocoz26Y9AmBxbxiROWZ/">**Presentation Link**</a>
 
-## IBM Certifications
+## Badges
 
-<li> SQL and Databases for Data Science: <a href="https://www.coursera.org/account/accomplishments/certificate/U6XDTP6BMLVR">   See Credential</a></li>
-<li> Data Analysis with Python: <a href="https://www.youracclaim.com/badges/94a0cf66-9174-456a-a77c-6ee328d6e6a3?source=linked_in_profile"> See Credential</a></li>
-<li> Data Visualization with Python: <a href="https://www.credly.com/badges/17673eea-6413-4691-885e-7064424783dd?source=linked_in_profile"> See Credential</a></li>
-<li> Machine Learning with Python: <a href="https://www.coursera.org/account/accomplishments/certificate/9GRKJMK7SSPZ"> See Credential</a></li>
-<li> IBM Data Science Professional Certification: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BEXSZHNPKL28">   See Credential</a></li>
+[![IBM Certified Data Analyst](https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/352f63db-bb8b-4eb6-8f83-c370f5f4e836)
 
 ## Data Science Projects
 
