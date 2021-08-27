@@ -101,6 +101,14 @@ The dataset reflects at provincial level and details from all the aspects.
 
 <a href="https://github.com/hassanaftab93/Covid-19-Analysis-Pakistan/blob/main/Covid19-Analysis-Pakistan-2020.ipynb">View Project</a>
 
+### US Accidents Analysis - Kaggle Dataset 2020
+August 2021
+
+This is an Exploratory Data Analysis Project on a Dataset used from Kaggle.com.
+Said Dataset containing Data on Accidents occured in USA uptil Dec 2020.
+
+<a href="https://nbviewer.jupyter.org/github/hassanaftab93/US-Accidents-Analysis/blob/master/US-Accidents-Analysis.ipynb?fbclid=IwAR3xsav-4nc7Uh_nxHOwl-VEbks_0n0as5yg54nJ9XiFIL5kTfYIpLWZQlI">View Project</a>
+
 ### ----------------------
 
 Reach me @: <a href="mailto:hassanaftab.pk@gmail.com">hassanaftab.pk@gmail.com</a>
