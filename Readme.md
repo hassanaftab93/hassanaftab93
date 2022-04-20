@@ -1,5 +1,9 @@
 # Welcome to My Github Profile 👋
 
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanaftab93&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanaftab93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Introduction
 
 Hi, My Name is Hassan Aftab. I have done my Computer Science Bachelors in 2018. Now, my area of expertise is Data Science.
