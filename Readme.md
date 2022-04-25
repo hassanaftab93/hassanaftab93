@@ -10,15 +10,16 @@ I am a IBM Certified Data Scientist. I have done some Projects on my own to Poli
 
 ## Tech & Tools
 
-<div align="center">
+<div align="left">
 
 | Tech | Tools |
 |:--:|:--:|
 |<img align="center" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">|<img align="center" src = "http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">|
 |<img align="center" src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">|<img align="center" src = "http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">|
 |<img align="center" src = "https://img.shields.io/badge/-JupyterNotebooks-orange">|<img align="center" src = "http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">|
-|<img align="center" src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">|<img align="center" src = "https://img.shields.io/badge/-Linux-blue">|
-|<img align="center" src = "http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">|<img align="center" src = "https://img.shields.io/badge/-Bash-green">|
+|<img align="center" src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">|<img align="center" src = "https://img.shields.io/badge/-Linux-grey">|
+|<img align="center" src = "http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">|<img align="center" src = "https://img.shields.io/badge/-Bash-blue">|
+|<img align="center" src = "https://img.shields.io/badge/-Python 3-brightgreen">||
 |||
 
 </div>
