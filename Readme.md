@@ -156,9 +156,8 @@ So this script file in the code will help remove those white spaces, it converts
 
 ### ----------------------
 
-Reach me @: <a href="mailto:hassanaftab.pk@gmail.com">hassanaftab.pk@gmail.com</a>
+Reach me @: [![Gmail Badge](https://img.shields.io/badge/-hassanaftab.pk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassanaftab.pk@gmail.com)](mailto:hassanaftab.pk@gmail.com)
 
 ## Social Media Links:
 
-<li>Linkedin:   <a href="https://www.linkedin.com/in/hassanaftab93/">hassanaftab93</a></li>
-<li>Facebook:   <a href="https://www.facebook.com/hassan.aftab93">Hassan Aftab</a></li>
+[![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanaftab93/)](https://www.linkedin.com/in/hassanaftab93/) [![Facebook Badge](https://img.shields.io/badge/-Hassan-informational?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hassan.aftab93/)](https://www.facebook.com/hassan.aftab93/)
