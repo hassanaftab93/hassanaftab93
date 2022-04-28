@@ -9,7 +9,17 @@ Hi, My Name is Hassan Aftab. I have done my Computer Science Bachelors in 2018. 
 
 I am a IBM Certified Data Scientist. I have done some Projects on my own to Polish my Data Analysis Skills.
 </details>
- 
+
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
+<details>
+<summary><h2>Profile Summary</h2></summary>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanaftab93&theme=vue">
+</div>
+</details>
+
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <details>
 <summary> <h2>Tech & Tools</h2></summary>
 
@@ -28,6 +38,7 @@ I am a IBM Certified Data Scientist. I have done some Projects on my own to Poli
 </div>
 </details>
 
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <details>
 <summary> <h2>Bachelors Thesis</h2></summary>
 
@@ -46,6 +57,7 @@ The module is capable of sending an SMS message to the family member periodicall
 <a href="https://prezi.com/view/Oocoz26Y9AmBxbxiROWZ/">**Presentation Link**</a>
 </details>
 
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <details>
 <summary><h2>Badges</h2></summary>
 
@@ -61,14 +73,7 @@ The module is capable of sending an SMS message to the family member periodicall
 </div>
 </details>
 
-<details>
-<summary><h2>Profile Summary</h2></summary>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanaftab93&theme=vue">
-</div>
-</details>
-
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <details>
 <summary><h2>Activity</h2></summary>
 
@@ -77,6 +82,7 @@ The module is capable of sending an SMS message to the family member periodicall
 </div>
 </details>
 
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <details>
 <summary><h2>Data Science Projects</h2></summary>
 
@@ -158,6 +164,7 @@ Said Dataset containing Data on Accidents occured in USA uptil Dec 2020.
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/US-Accidents-Analysis/blob/master/US-Accidents-Analysis.ipynb?fbclid=IwAR3xsav-4nc7Uh_nxHOwl-VEbks_0n0as5yg54nJ9XiFIL5kTfYIpLWZQlI">View Project</a>
 </details>
 
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <details>
 <summary><h2>Other Projects</h2></summary>
 
@@ -169,6 +176,7 @@ So this script file in the code will help remove those white spaces, it converts
 <a href="https://github.com/hassanaftab93/CSV-White-Space-Remover">**Repository Link**</a>
 </details>
 
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <details>
 <summary><h2>Social Media Links</h2></summary>
 
@@ -180,3 +188,5 @@ So this script file in the code will help remove those white spaces, it converts
 
 </div>
 </details>
+
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
