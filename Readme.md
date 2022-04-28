@@ -2,13 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaftab93&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaftab93" /> </p>
 
-## Introduction
+<details>
+<summary> <h2>Introduction</h2> </summary>
 
 Hi, My Name is Hassan Aftab. I have done my Computer Science Bachelors in 2018. Now, my area of expertise is Data Science.
 
 I am a IBM Certified Data Scientist. I have done some Projects on my own to Polish my Data Analysis Skills.
-
-## Tech & Tools
+</details>
+ 
+<details>
+<summary> <h2>Tech & Tools</h2></summary>
 
 <div align="left">
 
@@ -23,8 +26,10 @@ I am a IBM Certified Data Scientist. I have done some Projects on my own to Poli
 |<img align="center" src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">|<img align="center" src = "https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">|
 
 </div>
+</details>
 
-## Bachelors Thesis
+<details>
+<summary> <h2>Bachelors Thesis</h2></summary>
 
 ### Ultrasonic Object Detection for the Blind
 
@@ -39,8 +44,10 @@ The module is capable of sending an SMS message to the family member periodicall
 <a href="https://github.com/hassanaftab93/Obstacle-Detection-for-the-blind">**Repository Link**</a>
 <br/><br/>
 <a href="https://prezi.com/view/Oocoz26Y9AmBxbxiROWZ/">**Presentation Link**</a>
+</details>
 
-## Badges
+<details>
+<summary><h2>Badges</h2></summary>
 
 <div align="center">
 
@@ -52,20 +59,26 @@ The module is capable of sending an SMS message to the family member periodicall
 |  |  |  |  |
   
 </div>
+</details>
 
-## Profile Summary
+<details>
+<summary><h2>Profile Summary</h2></summary>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanaftab93&theme=vue">
 </div>
+</details>
 
-## Activity
+<details>
+<summary><h2>Activity</h2></summary>
 
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=hassanaftab93&theme=minimal">
 </div>
+</details>
 
-## Data Science Projects
+<details>
+<summary><h2>Data Science Projects</h2></summary>
 
 ### Web Scraping & Analysis of Stocks with Python
 Feb 2021 – Mar 2021
@@ -143,10 +156,10 @@ This is an Exploratory Data Analysis Project on a Dataset used from Kaggle.com.
 Said Dataset containing Data on Accidents occured in USA uptil Dec 2020.
 
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/US-Accidents-Analysis/blob/master/US-Accidents-Analysis.ipynb?fbclid=IwAR3xsav-4nc7Uh_nxHOwl-VEbks_0n0as5yg54nJ9XiFIL5kTfYIpLWZQlI">View Project</a>
+</details>
 
-### ----------------------
-
-## Other Projects
+<details>
+<summary><h2>Other Projects</h2></summary>
 
 ### CSV File White Space Remover
 
@@ -154,11 +167,16 @@ Sometimes Excel or Notepad will not recognize whitespaces when you try to remove
 So this script file in the code will help remove those white spaces, it converts them to "?" characters, which can then be manually removed.
 
 <a href="https://github.com/hassanaftab93/CSV-White-Space-Remover">**Repository Link**</a>
+</details>
 
-### ----------------------
+<details>
+<summary><h2>Social Media Links</h2></summary>
 
-Reach me @: [![Gmail Badge](https://img.shields.io/badge/-hassanaftab.pk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassanaftab.pk@gmail.com)](mailto:hassanaftab.pk@gmail.com)
+<div align = "center">
+  
+  |LinkedIn|Facebook|Gmail|
+  |:--:|:--:|:--:|
+  | [![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanaftab93/)](https://www.linkedin.com/in/hassanaftab93/) | [![Facebook Badge](https://img.shields.io/badge/-Hassan-informational?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hassan.aftab93/)](https://www.facebook.com/hassan.aftab93/) | [![Gmail Badge](https://img.shields.io/badge/-hassanaftab.pk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassanaftab.pk@gmail.com)](mailto:hassanaftab.pk@gmail.com) |
 
-## Social Media Links:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanaftab93/)](https://www.linkedin.com/in/hassanaftab93/) [![Facebook Badge](https://img.shields.io/badge/-Hassan-informational?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hassan.aftab93/)](https://www.facebook.com/hassan.aftab93/)
+</div>
+</details>
