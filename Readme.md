@@ -1,13 +1,21 @@
-# Welcome to My Github Profile 👋
+# 👋 Hi, My Name is Hassan Aftab.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaftab93&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaftab93" /> </p>
 
 <details>
-<summary> <h2>Introduction</h2> </summary>
+<summary> <h2>About Me</h2> </summary>
 
-Hi, My Name is Hassan Aftab. I have done my Computer Science Bachelors in 2018. Now, my area of expertise is Data Science.
+👨🏻‍🎓 Computer Science | **2018**
+  
+🧿 IBM Certified | **Data Analyst**
 
-I am a IBM Certified Data Scientist. I have done some Projects on my own to Polish my Data Analysis Skills.
+Area of expertise:
+  
+* 📈 Data Science & Analytics
+* 👨🏻‍💻 Sentiment Analysis
+* 📟 IoT & Embedded Systems
+* 📲 Digital Media Marketing
+
 </details>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
