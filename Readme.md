@@ -179,9 +179,19 @@ Said Dataset containing Data on Accidents occured in USA uptil Dec 2020.
 ### CSV File White Space Remover
 
 Sometimes Excel or Notepad will not recognize whitespaces when you try to remove extra spaces in an entire column of data, or a dataset.
+
 So this script file in the code will help remove those white spaces, it converts them to "?" characters, which can then be manually removed.
 
 <a href="https://github.com/hassanaftab93/CSV-White-Space-Remover">**Repository Link**</a>
+  
+### Repository Automation
+
+This project comes out of an irritation I faced personally.
+
+When I was first learning to code - setting up my local repo and syncing with Github
+  
+<a href="https://github.com/hassanaftab93/Repository-Automation">**Repository Link**</a>
+
 </details>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
