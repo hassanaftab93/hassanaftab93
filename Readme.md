@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaftab93&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaftab93" /> </p>
 
-<details>
-<summary> <h2>About Me</h2> </summary>
+<h2>About Me</h2>
 
 👨🏻‍🎓 Computer Science | **2018**
   
@@ -16,39 +15,64 @@ Area of expertise:
 * 📟 IoT & Embedded Systems
 * 📲 Digital Media Marketing
 
-</details>
-
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<details>
-<summary><h2>Profile Summary</h2></summary>
+<h2>Profile Summary</h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanaftab93&theme=vue">
 </div>
-</details>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<details>
-<summary> <h2>Tech & Tools</h2></summary>
+<h2>Tech & Tools</h2>
 
-<div align="left">
+<div align="center">
 
-| Tech | Tools |
-|:--:|:--:|
-|<img align="center" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">|<img align="center" src = "http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">|
-|<img align="center" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">|<img align="center" src = "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">|
-|<img align="center" src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">|<img align="center" src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">|
-|<img align="center" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">|<img align="center" src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">|
-|<img align="center" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">|<img align="center" src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">|
-|<img align="center" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|<img align="center" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">|
-|<img align="center" src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">|<img align="center" src = "https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">|
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <td width="80px" align="center">
+            <span><strong>Canva</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- <img align="center" src = ""> -->
 
 </div>
-</details>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<details>
-<summary> <h2>Bachelors Thesis</h2></summary>
+<h2>Bachelors Thesis</h2>
 
 ### Ultrasonic Object Detection for the Blind
 
@@ -63,11 +87,9 @@ The module is capable of sending an SMS message to the family member periodicall
 <a href="https://github.com/hassanaftab93/Obstacle-Detection-for-the-blind">**Repository Link**</a>
 <br/><br/>
 <a href="https://prezi.com/view/Oocoz26Y9AmBxbxiROWZ/">**Presentation Link**</a>
-</details>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<details>
-<summary><h2>Badges</h2></summary>
+<h2>Badges</h2>
 
 <div align="center">
 
@@ -79,20 +101,16 @@ The module is capable of sending an SMS message to the family member periodicall
 |  |  |  |  |
   
 </div>
-</details>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<details>
-<summary><h2>Activity</h2></summary>
+<h2>Activity</h2>
 
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=hassanaftab93&theme=minimal">
 </div>
-</details>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<details>
-<summary><h2>Data Science Projects</h2></summary>
+<h2>Data Science Projects</h2>
 
 ### Web Scraping & Analysis of Stocks with Python
 Feb 2021 – Mar 2021
@@ -170,11 +188,9 @@ This is an Exploratory Data Analysis Project on a Dataset used from Kaggle.com.
 Said Dataset containing Data on Accidents occured in USA uptil Dec 2020.
 
 <a href="https://nbviewer.jupyter.org/github/hassanaftab93/US-Accidents-Analysis/blob/master/US-Accidents-Analysis.ipynb?fbclid=IwAR3xsav-4nc7Uh_nxHOwl-VEbks_0n0as5yg54nJ9XiFIL5kTfYIpLWZQlI">View Project</a>
-</details>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<details>
-<summary><h2>Other Projects</h2></summary>
+<h2>Other Projects</h2>
 
 ### CSV File White Space Remover
 
@@ -192,11 +208,8 @@ When I was first learning to code - setting up my local repo and syncing with Gi
   
 <a href="https://github.com/hassanaftab93/Repository-Automation">**Repository Link**</a>
 
-</details>
-
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<details>
-<summary><h2>Social Media Links</h2></summary>
+<h2>Social Media Links</h2>
 
 <div align = "center">
   
@@ -205,6 +218,5 @@ When I was first learning to code - setting up my local repo and syncing with Gi
   | [![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanaftab93/)](https://www.linkedin.com/in/hassanaftab93/) | [![Facebook Badge](https://img.shields.io/badge/-Hassan-informational?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hassan.aftab93/)](https://www.facebook.com/hassan.aftab93/) | [![Gmail Badge](https://img.shields.io/badge/-hassanaftab.pk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassanaftab.pk@gmail.com)](mailto:hassanaftab.pk@gmail.com) |
 
 </div>
-</details>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
