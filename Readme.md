@@ -30,38 +30,82 @@ Area of expertise:
 <table width="320px">
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
+            </td>
+            <td valign="middle" width="80px" align="center">
+            <span><strong>Tech</strong></span><br>
+            </td>
+            <td width="80px" valign="middle" align="center">
             <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            <td width="80px" valign="middle" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
             </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <td width="80px" valign="middle" align="center">
+            <span><strong>C++</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
             </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            <td width="80px" valign="middle" align="center">
+            <span><strong>Arduino</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+            </td>
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>GO</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>TensorFlow</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
             </td>
         </tr>
         <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
-            <td width="80px" align="center">
+            <td valign="middle" width="80px" align="center">
+            <span><strong>Tools</strong></span><br>
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>Code</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>Bash</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+            </td>
+            <td width="80px" valign="middle" align="center">
             <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
-            <td width="80px" align="center">
+            <td width="80px" valign="middle" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>Jupyter</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>Docker</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+            </td>
+        </tr>
+        <tr valign="top">
+            </td>
+            <td valign="middle" width="80px" align="center">
+            <span><strong>OS</strong></span><br>
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>Windows</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>Ubuntu</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>MacOS</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
             </td>
         </tr>
     </tbody>
