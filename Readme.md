@@ -257,13 +257,18 @@ When I was first learning to code - setting up my local repo and syncing with Gi
 <a href="https://github.com/hassanaftab93/Repository-Automation">**Repository Link**</a>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
+
+<!--
+[![nameOfIcon](linkToIcon)](linkToProfile)
+-->
+
 <h2>Social Media Links</h2>
 
 <div align = "center">
   
   |LinkedIn|Facebook|Gmail|
-  |:--:|:--:|:--:|
-  | [![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanaftab93/)](https://www.linkedin.com/in/hassanaftab93/) | [![Facebook Badge](https://img.shields.io/badge/-Hassan-informational?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hassan.aftab93/)](https://www.facebook.com/hassan.aftab93/) | [![Gmail Badge](https://img.shields.io/badge/-hassanaftab.pk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassanaftab.pk@gmail.com)](mailto:hassanaftab.pk@gmail.com) |
+  |:--:|:--:|:--:|:--:|:--:|
+  | [![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanaftab93/)](https://www.linkedin.com/in/hassanaftab93/) | [![Facebook Badge](https://img.shields.io/badge/-Hassan-informational?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hassan.aftab93/)](https://www.facebook.com/hassan.aftab93/) | [![Gmail Badge](https://img.shields.io/badge/-hassanaftab.pk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassanaftab.pk@gmail.com)](mailto:hassanaftab.pk@gmail.com) | [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/10053881/hassan-aftab) | [![GoogleDevProfile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://g.dev/hassanaftab93) |
 
 </div>
 
