@@ -34,7 +34,6 @@ Area of expertise:
 <table width="320px">
     <tbody>
         <tr valign="top">
-            </td>
             <td valign="middle" width="80px" align="center">
             <span><strong>Tech</strong></span><br>
             </td>
@@ -54,6 +53,9 @@ Area of expertise:
             <span><strong>Arduino</strong></span><br>
             <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
             </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>Angular</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
             </td>
             <td width="80px" valign="middle" align="center">
             <span><strong>GO</strong></span><br>
@@ -115,7 +117,7 @@ Area of expertise:
     </tbody>
 </table>
 
-<!-- <img align="center" src = ""> -->
+<!-- <img align="center" src = ""> TO ADD MORE ICONS-->
 
 </div>
 
