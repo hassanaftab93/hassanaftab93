@@ -153,13 +153,6 @@ The module is capable of sending an SMS message to the family member periodicall
 </div>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<h2>Activity</h2>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hassanaftab93&theme=minimal">
-</div>
-
-<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <h2>Data Science Projects</h2>
 
 ### Web Scraping & Analysis of Stocks with Python
