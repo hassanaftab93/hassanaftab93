@@ -1,7 +1,8 @@
 <!--
 - https://devicon.dev/
-- 
+- https://devicon-website.vercel.app/
 -->
+
 # 👋 Hi, My Name is Hassan Aftab.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaftab93&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaftab93" /> </p>
@@ -12,12 +13,15 @@
   
 🧿 IBM Certified | **Data Analyst**
 
+<p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/coffeescript/original.svg?color=%2308A900"></img> DevOps Engineer | <b>TEO International</b> </p>
+
 Area of expertise:
-  
-* 📈 Data Science & Analytics
-* 👨🏻‍💻 Sentiment Analysis
-* 📟 IoT & Embedded Systems
-* 📲 Digital Media Marketing
+
+* <p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/codecov/plain.svg"></img> - DevOps CI/CD Pipelines & Practices</p>
+* <p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/debian/original.svg"></img> - Linux Administration</p>
+* <p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/sequelize/original.svg"></img> - Data Science & Analytics</p>
+* <p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/polygon/original.svg"></img> - Sentiment Analysis</p>
+* <p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/raspberrypi/original.svg"></img> - IoT & Embedded Systems</p>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <h2>Profile Summary</h2>
