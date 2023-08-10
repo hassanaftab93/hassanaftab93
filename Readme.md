@@ -11,9 +11,9 @@
 
 👨🏻‍🎓 Computer Scientist | **2018 Graduate**
 
-<p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/coffeescript/original.svg?color=%2308A900"></img> DevOps Engineer | <b>TEO International</b> </p>
+🧿 Data Analyst | **IBM Certified**
 
-🧿 IBM Certified | **Data Analyst**
+<p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/coffeescript/original.svg?color=%2308A900"></img> DevOps Engineer | <b>TEO International</b> </p>
 
 Area of expertise:
 
