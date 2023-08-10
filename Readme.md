@@ -35,35 +35,27 @@ Area of expertise:
     <tbody>
         <tr valign="top">
             <td valign="middle" width="80px" align="center">
-            <span><strong>Tech</strong></span><br>
+            <span><strong>DevOps</strong></span><br>
             </td>
             <td width="80px" valign="middle" align="center">
             <span><strong>Python</strong></span><br>
             <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
             <td width="80px" valign="middle" align="center">
-            <span><strong>JavaScript</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+            <span><strong>Vagrant</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
             </td>
             <td width="80px" valign="middle" align="center">
-            <span><strong>C++</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+            <span><strong>Terraform</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />
             </td>
             <td width="80px" valign="middle" align="center">
-            <span><strong>Arduino</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+            <span><strong>Ansible</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
             </td>
             <td width="80px" valign="middle" align="center">
-            <span><strong>Angular</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-            </td>
-            <td width="80px" valign="middle" align="center">
-            <span><strong>GO</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-            </td>
-            <td width="80px" valign="middle" align="center">
-            <span><strong>TensorFlow</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+            <span><strong>Kubernetes</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
             </td>
         </tr>
         <tr valign="top">
@@ -84,16 +76,26 @@ Area of expertise:
             <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
             <td width="80px" valign="middle" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            </td>
-            <td width="80px" valign="middle" align="center">
-            <span><strong>Jupyter</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-            </td>
-            <td width="80px" valign="middle" align="center">
             <span><strong>Docker</strong></span><br>
             <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+            </td>
+        </tr>
+        <tr>
+          </td>
+            <td valign="middle" width="80px" align="center">
+            <span><strong>Cloud</strong></span><br>
+          </td>
+          <td width="80px" valign="middle" align="center">
+            <span><strong>Azure</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>AWS</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+            </td>
+            <td width="80px" valign="middle" align="center">
+            <span><strong>GCP</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
             </td>
         </tr>
         <tr valign="top">
@@ -102,17 +104,21 @@ Area of expertise:
             <span><strong>OS</strong></span><br>
             </td>
             <td width="80px" valign="middle" align="center">
-            <span><strong>Windows</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+            <span><strong>Linux</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
             </td>
             <td width="80px" valign="middle" align="center">
-            <span><strong>Ubuntu</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+            <span><strong>NixOS</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
             </td>
-            <td width="80px" valign="middle" align="center">
-            <span><strong>MacOS</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-            </td>
+        </tr>
+        <tr>
+          <td valign="middle" width="80px" align="center">
+            <span><strong>GitOps</strong></span><br>
+          </td>
+          <td width="80px" valign="middle" align="center">
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" />
+          </td>
         </tr>
     </tbody>
 </table>
