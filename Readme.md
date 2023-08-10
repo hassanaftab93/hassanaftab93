@@ -150,7 +150,7 @@ The module is capable of sending an SMS message to the family member periodicall
 <a href="https://prezi.com/view/Oocoz26Y9AmBxbxiROWZ/">**Presentation Link**</a>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<h2>Badges</h2>
+<h2>Data Science Badges</h2>
 
 <div align="center">
 
@@ -160,6 +160,24 @@ The module is capable of sending an SMS message to the family member periodicall
 | [![Data Analysis with Python](https://images.credly.com/size/110x110/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png)](https://www.credly.com/badges/94a0cf66-9174-456a-a77c-6ee328d6e6a3/public_url) | [![Data Visualization with Python](https://images.credly.com/size/110x110/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png)](https://www.credly.com/badges/17673eea-6413-4691-885e-7064424783dd/public_url) | [![Machine Learning with python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](https://www.credly.com/badges/928b3b1b-a40f-4e67-a3f4-fd0b3d2f03d0/public_url) | [![Fundamentals of Scalable Data Science](https://images.credly.com/size/110x110/images/d3d687ea-c3a8-43c8-96bb-704658c71a4a/Fundamentals_of_Scalable_Data_Science.png)](https://www.credly.com/badges/639e3e1b-cde2-4f53-b2d1-45b7c264a733/public_url) |
 | [![Advanced Machine Learning and Signal Processing](https://images.credly.com/size/110x110/images/007afae6-2754-4a7c-9c44-e95c64c93656/IBM_Watson_IoT-_Advanced_Machine_Learning_and_Signal_Processing.png)](https://www.credly.com/badges/8a7c9f1d-a0b3-49c3-bbf4-dd4ff0113d78/public_url) | [![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/badges/352f63db-bb8b-4eb6-8f83-c370f5f4e836/public_url) |  |  |
 |  |  |  |  |
+  
+</div>
+
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
+<!-- [![](imageLink)](clickableLink) for table data (badges) -->
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
+<h2>Microsoft Badges</h2>
+
+<div align="center">
+
+|  |  |  |  |
+|--|--|--|--|
+| [![](https://learn.microsoft.com/en-us/training/achievements/arm-configure-with-tools.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-azure-resources-tools.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/arm-use-resource-manager.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.use-azure-resource-manager.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/arm-templates-resources.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-resources-arm-templates.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/automate-azure-tasks-with-powershell.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.automate-azure-tasks-with-powershell.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) |
+| [![](https://learn.microsoft.com/en-us/training/achievements/control-azure-services-with-cli.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.control-azure-services-with-cli.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/create-azure-resource-manager-template-vs-code.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.azure.create-resource-manager-template-vs-code.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/azure-active-directory.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-azure-active-directory.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/user-group-accounts-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-user-group-accounts.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) |
+| [![](https://learn.microsoft.com/en-us/training/achievements/subscriptions-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-subscriptions.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/azure-policy-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-azure-policy.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/roles-based-access-control.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-role-based-access-control.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/create-users-and-groups-in-azure-active-directory.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.azure.create-users-and-groups-in-azure-active-directory.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) |
+| [![](https://learn.microsoft.com/en-us/training/achievements/secure-azure-resources-with-rbac.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.secure-azure-resources-with-rbac.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/allow-users-reset-their-password.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.azure.allow-users-to-reset-their-password.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/storage-accounts-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-storage-accounts.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![]()]() |
+|  |  |  |  |
+
   
 </div>
 
