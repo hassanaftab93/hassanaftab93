@@ -9,7 +9,7 @@
 
 <h2>About Me</h2>
 
-👨🏻‍🎓 Computer Science | **2018**
+👨🏻‍🎓 Computer Scientist | **2018**
   
 🧿 IBM Certified | **Data Analyst**
 
