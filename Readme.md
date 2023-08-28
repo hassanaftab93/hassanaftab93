@@ -116,12 +116,12 @@ Area of expertise:
             <span><strong>OS</strong></span><br>
             </td>
             <td width="80px" valign="middle" align="center">
-            <span><strong>Linux</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+            <span><strong>Kali</strong></span><br>
+            <img height="45px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
             </td>
             <td width="80px" valign="middle" align="center">
-            <span><strong>NixOS</strong></span><br>
-            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
+            <span><strong>Linux</strong></span><br>
+            <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
             </td>
         </tr>
         <tr>
