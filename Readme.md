@@ -140,6 +140,35 @@ Area of expertise:
 
 </div>
 
+<h2>DevOps Badges</h2>
+
+<div align="center">
+
+|  |
+|--|
+| [![](https://images.credly.com/size/110x110/images/6aedf8f6-5bb0-4d83-8a6b-3e3f43bc9540/image.png)](https://www.credly.com/badges/5c0cccb3-e625-4d07-b6cc-cc2371d3098a/public_url) |
+|  |
+
+  
+</div>
+
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
+
+<h2>Microsoft Badges</h2>
+
+<div align="center">
+
+|  |  |  |  |
+|--|--|--|--|
+| [![](https://learn.microsoft.com/en-us/training/achievements/arm-configure-with-tools.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-azure-resources-tools.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/arm-use-resource-manager.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.use-azure-resource-manager.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/arm-templates-resources.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-resources-arm-templates.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/automate-azure-tasks-with-powershell.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.automate-azure-tasks-with-powershell.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) |
+| [![](https://learn.microsoft.com/en-us/training/achievements/control-azure-services-with-cli.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.control-azure-services-with-cli.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/create-azure-resource-manager-template-vs-code.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.azure.create-resource-manager-template-vs-code.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/azure-active-directory.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-azure-active-directory.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/user-group-accounts-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-user-group-accounts.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) |
+| [![](https://learn.microsoft.com/en-us/training/achievements/subscriptions-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-subscriptions.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/azure-policy-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-azure-policy.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/roles-based-access-control.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-role-based-access-control.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/create-users-and-groups-in-azure-active-directory.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.azure.create-users-and-groups-in-azure-active-directory.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) |
+| [![](https://learn.microsoft.com/en-us/training/achievements/secure-azure-resources-with-rbac.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.secure-azure-resources-with-rbac.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/allow-users-reset-their-password.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.azure.allow-users-to-reset-their-password.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/storage-accounts-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-storage-accounts.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![]()]() |
+|  |  |  |  |
+
+  
+</div>
+
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <h2>Bachelors Thesis</h2>
 
@@ -158,6 +187,9 @@ The module is capable of sending an SMS message to the family member periodicall
 <a href="https://prezi.com/view/Oocoz26Y9AmBxbxiROWZ/">**Presentation Link**</a>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
+
+<!-- COMMENT
+
 <h2>Data Science Badges</h2>
 
 <div align="center">
@@ -174,20 +206,6 @@ The module is capable of sending an SMS message to the family member periodicall
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <!-- [![](imageLink)](clickableLink) for table data (badges) -->
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
-<h2>Microsoft Badges</h2>
-
-<div align="center">
-
-|  |  |  |  |
-|--|--|--|--|
-| [![](https://learn.microsoft.com/en-us/training/achievements/arm-configure-with-tools.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-azure-resources-tools.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/arm-use-resource-manager.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.use-azure-resource-manager.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/arm-templates-resources.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-resources-arm-templates.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/automate-azure-tasks-with-powershell.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.automate-azure-tasks-with-powershell.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) |
-| [![](https://learn.microsoft.com/en-us/training/achievements/control-azure-services-with-cli.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.control-azure-services-with-cli.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/create-azure-resource-manager-template-vs-code.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.azure.create-resource-manager-template-vs-code.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/azure-active-directory.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-azure-active-directory.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/user-group-accounts-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-user-group-accounts.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) |
-| [![](https://learn.microsoft.com/en-us/training/achievements/subscriptions-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-subscriptions.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/azure-policy-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-azure-policy.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/roles-based-access-control.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-role-based-access-control.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/create-users-and-groups-in-azure-active-directory.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.azure.create-users-and-groups-in-azure-active-directory.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) |
-| [![](https://learn.microsoft.com/en-us/training/achievements/secure-azure-resources-with-rbac.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.secure-azure-resources-with-rbac.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/allow-users-reset-their-password.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.azure.allow-users-to-reset-their-password.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![](https://learn.microsoft.com/en-us/training/achievements/storage-accounts-configure.svg)](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.configure-storage-accounts.badge?username=hassanaftab93&sharingId=372CEEDD5C34DEDA) | [![]()]() |
-|  |  |  |  |
-
-  
-</div>
 
 <!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <h2>Data Science Projects</h2>
