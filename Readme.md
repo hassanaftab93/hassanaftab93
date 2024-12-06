@@ -17,7 +17,7 @@
 
 🧿 Data Analyst | **IBM Certified**
 
-<p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/coffeescript/original.svg?color=%2308A900"></img> DevOps Engineer | <b>TEO International</b> </p>
+<p valign="middle"> <img height="20px" src="https://devicon-website.vercel.app/api/coffeescript/original.svg?color=%2308A900"></img> Senior DevSecOps Engineer | <b>TEO International</b> </p>
 
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
