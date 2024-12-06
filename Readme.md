@@ -320,11 +320,21 @@ When I was first learning to code - setting up my local repo and syncing with Gi
   <a href="https://linktr.ee/hassanaftab"><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"></a>
 </div>
 
-<div align = "center">
+<div align = "left">
   
-  |LinkedIn|Facebook|Gmail|Stack Overflow|Google Dev Profile|
-  |:--:|:--:|:--:|:--:|:--:|
-  | [![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassanaftab93/)](https://www.linkedin.com/in/hassanaftab93/) | [![Facebook Badge](https://img.shields.io/badge/-Hassan-informational?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hassan.aftab93/)](https://www.facebook.com/hassan.aftab93/) | [![Gmail Badge](https://img.shields.io/badge/-hassanaftab.pk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassanaftab.pk@gmail.com)](mailto:hassanaftab.pk@gmail.com) | [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/10053881/hassan-aftab) | [![GoogleDevProfile](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://g.dev/hassanaftab93) |
+## 🌐 Connect with Hassan Aftab
+
+### 👥 Professional Networks
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassanaftab93/)
+
+- [![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10053881/hassan-aftab)
+
+- [![DevTo Badge](https://img.shields.io/badge/Dev%20To-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/hassan_aftab)
+
+### 📧 Contact Information
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hassanaftab.pk@gmail.com)
+
+- [![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/hassan.aftab93/)
 
 </div>
 
