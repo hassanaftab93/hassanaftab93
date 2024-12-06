@@ -144,9 +144,11 @@ Area of expertise:
 
 <div align="center">
 
+My Badges on [Credly](https://www.credly.com/users/hassan-aftab.ad4d33cc)
+
 |  |
 |--|
-| [![](https://images.credly.com/size/110x110/images/6aedf8f6-5bb0-4d83-8a6b-3e3f43bc9540/image.png)](https://www.credly.com/badges/5c0cccb3-e625-4d07-b6cc-cc2371d3098a/public_url) |
+| [![](https://images.credly.com/size/100x100/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/5c0cccb3-e625-4d07-b6cc-cc2371d3098a/public_url) |
 |  |
 
   
