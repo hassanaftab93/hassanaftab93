@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaftab93&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaftab93" /> </p>
 
+<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/hassanaftab.pk.png" alt="Your Image Badge" /> </p>
+
 <h2>About Me</h2>
 
 <div align="center">
