@@ -152,6 +152,7 @@ My Badges on [Credly](https://www.credly.com/users/hassan-aftab.ad4d33cc)
 |  |
 |--|
 | [![](https://images.credly.com/size/100x100/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/5c0cccb3-e625-4d07-b6cc-cc2371d3098a/public_url) |
+| [![](https://images.credly.com/size/100x100/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png)](https://www.credly.com/badges/352f63db-bb8b-4eb6-8f83-c370f5f4e836/public_url) |
 |  |
 
   
