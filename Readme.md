@@ -326,7 +326,7 @@ When I was first learning to code - setting up my local repo and syncing with Gi
 
 <div align = "left">
   
-## 🌐 Connect with Hassan Aftab
+## 🌐 Connect with Me
 
 ### 👥 Professional Networks
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassanaftab93/)
@@ -338,7 +338,7 @@ When I was first learning to code - setting up my local repo and syncing with Gi
 ### 📧 Contact Information
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hassanaftab.pk@gmail.com)
 
-- [![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/hassan.aftab93/)
+<!-- - [![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/hassan.aftab93/) -->
 
 </div>
 
