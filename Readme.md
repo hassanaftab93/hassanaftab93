@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaftab93&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaftab93" /> </p>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hassanaftab.pk.png)](https://tryhackme.com/p/0xV1rus)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xV1rus.png)](https://tryhackme.com/p/0xV1rus)
 
 
 <h2>About Me</h2>
