@@ -140,9 +140,8 @@ Area of expertise:
 </table>
 
 <!-- <img align="center" src = ""> TO ADD MORE ICONS-->
-
 </div>
-
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <h2>DevOps Badges</h2>
 
 <div align="center">
@@ -158,8 +157,22 @@ My Badges on [Credly](https://www.credly.com/users/hassan-aftab.ad4d33cc)
   
 </div>
 
-<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
+<!--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------
+<h2>Cyber Security Badges</h2>
 
+<div align="center">
+
+My Badges on [TryHackMe - 0xV1rus](https://tryhackme.com/p/0xV1rus)
+
+|  |
+|--|
+|  |
+|  |
+
+  
+</div>
+
+--------------------------------------------------------- SECTION DIVIDER --------------------------------------------------------->
 <h2>Microsoft Badges</h2>
 
 <div align="center">
