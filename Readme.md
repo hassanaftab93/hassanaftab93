@@ -5,6 +5,8 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40px"> Hi, My Name is Hassan Aftab.
 
+# 📝 <a href="https://hassanaftab93.github.io/resume/Hassan_Aftab.pdf">Click Here for my Resume</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanaftab93&label=Profile%20views&color=0e75b6&style=flat" alt="hassanaftab93" /> </p>
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xV1rus.png)](https://tryhackme.com/p/0xV1rus)
